@@ -4,6 +4,6 @@
 
 
 ```js
-import gen from '@suman/code-generation'
+import gen from '@sce/code-generation'
 ```
 
