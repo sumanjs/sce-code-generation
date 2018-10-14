@@ -67,6 +67,7 @@ export abstract class AbstractGenerator {
     }
 
     result += this.getFooter();
+    return result;
   }
 
   abstract getHeader(): string;
